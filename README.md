@@ -2,7 +2,7 @@
 
 This repository contains the [documentation](https://replapi-it-docs.vercel.app) for the [ReplAPI.it](https://www.npmjs.com/package/replapi-it) package!
 
-You can run this repo forking a copy and performing:
+You can run this repo by forking a copy and performing:
 
 ```
 npm install
