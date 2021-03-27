@@ -1,7 +1,5 @@
-# Nextra
+# ReplAPI.it
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
+**ReplAPI.it** is a NodeJS wrapper written to make querying all sorts of data on Replit.com easier for NodeJS users!
 
-It supports Markdown with React components ([MDX](/docs/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
-
-![](/demo.png)
+It has a **broad range of applications**, from a simple dashboard to be used by people on Replit, to a game that has a customized feel for each user, to a ReplTalk board scanner! **The uses for this package virtually unlimited**.
