@@ -27,10 +27,10 @@ export default {
       
       <meta name="og:title" content="ReplAPI.it Documentation" />
       <meta name="og:description" content="The home of the ReplAPI.it Docs." />
-      /* <meta name="og:image" content="https://nextra.vercel.app/og.png" /> */
+      <meta name="og:image" content="https://nextra.vercel.app/logo.jpg" />
       
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://replapi-it-docs.vercel.app/og.png" />
+      <meta name="twitter:image" content="https://replapi-it-docs.vercel.app/logo.jpg" />
       <meta name="twitter:site:domain" content="replapi-it-docs.vercel.app" />
       <meta name="twitter:url" content="https://replapi-it-docs.vercel.app" />
       

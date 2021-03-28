@@ -26,7 +26,7 @@ Make sure that you are placing the page in the correct folder, and you are addin
 
 **For example**, if you are adding a new page about Furrets to `/docs/pokemon/furrets`, you would:
 
-1. Navigate to the `./pages/docs/pokemon`.
+1. Navigate to the `./pages/docs/pokemon` folder.
 2. Add a `furrets.md` file.
 3. Write your information in Markdown syntax.
 4. Go to the `meta.json` file **in the same folder** as your page.
