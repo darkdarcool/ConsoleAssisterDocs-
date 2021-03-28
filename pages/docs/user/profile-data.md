@@ -1,4 +1,6 @@
 # Profile Data
+
+## Usage
 ```js
 .profileData()
 ```
@@ -7,6 +9,7 @@ This function is used to retrive information about a specific user.
 
 It doesn't take in any parameters.
 
+## Example
 **Example Code**:
 ```js
 const replapi = require('replapi-it');

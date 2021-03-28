@@ -1,4 +1,6 @@
 # Post Data
+
+## Usage
 ```js
 .postData(after, count, order)
 ```
@@ -7,7 +9,7 @@ This function is used to retrive the posts a specific user wrote.
 
 It takes in the *after*, *count*, and *order* fields.
 
-| Parameter Name | Description | Defalt Value |
+| Parameter Name | Description | Default Value |
 | :---: | :---: | :---: |
 | after | page to continue from | '' |
 | count | number of posts to retrieve | 50 |
@@ -15,6 +17,7 @@ It takes in the *after*, *count*, and *order* fields.
 
 > Be warned, getting posts by User is not very efficient, and it is recommend that you use the *Post* class to gather data on specific posts.
 
+## Example
 **Example Code**:
 ```js
 const replapi = require('replapi-it');

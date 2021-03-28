@@ -1,4 +1,6 @@
-# Comment Data
+# Comment 
+
+## Usage
 ```js
 .commentData(after, count, order)
 ```
@@ -7,7 +9,7 @@ This function is used to retrive the comments a specific user wrote.
 
 It takes in the *after*, *count*, and *order* fields.
 
-| Parameter Name | Description | Defalt Value |
+| Parameter Name | Description | Default Value |
 | :---: | :---: | :---: |
 | after | page to continue from | '' |
 | count | number of comments to retrieve | 50 |
@@ -15,6 +17,7 @@ It takes in the *after*, *count*, and *order* fields.
 
 > Be warned, getting comments by User is not very efficient, and it is recommend that you use the *Comment* class to gather data on specific comment.
 
+## Example
 **Example Code**:
 ```js
 const replapi = require('replapi-it');

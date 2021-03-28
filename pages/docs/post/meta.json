@@ -1,4 +1,6 @@
 {
   "post": "Post Information",
-  "post-data": "Post.postData()"
+  "post-data": "Post.postData()",
+  "recent-comments": "Post.recentComments()",
+  "create-comment": "Post.createComment()$"
 }

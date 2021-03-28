@@ -1,5 +1,6 @@
 {
   "getting-started": "Getting Started",
   "user": "The User Class",
-  "post": "The Post Class"
+  "post": "The Post Class",
+  "comment": "The Comment Class"
 }
