@@ -1,0 +1,6 @@
+{
+  "user": "User Information",
+  "profile-data": "User.profileData()",
+  "post-data": "User.postData()",
+  "comment-data": "User.commentData()"
+}
