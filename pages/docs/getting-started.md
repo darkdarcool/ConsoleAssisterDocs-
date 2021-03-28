@@ -20,7 +20,7 @@ Now we can get started using the package!
 
 This package is written to be **asynchronous** and **[class-based](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)**. You create a new class for each item you want query and then perform queries on the specific item. For example, **getting the posts on a board might look like**:
 
-```js
+```js highlight=3,7
 const replapi = require('replapi-it');
 
 let learnBoard = new replapi.Board('learn');

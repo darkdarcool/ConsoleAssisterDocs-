@@ -5,7 +5,7 @@
 .createComment(message)
 ```
 
-This function is used to create a comment on a post.
+This function is used to reply to a comment with a comment.
 
 It takes in the *message* field.
 
@@ -22,10 +22,10 @@ It takes in the *message* field.
 ```js
 const replapi = require('replapi-it');
 
-let myPost = new replapi.Post(131485);
+let myComment = new replapi.Comment(486420);
 
 async function createComment() {
-  let info = await myPost.createComment('Hello!');
+  let info = await myComment.createComment('Hello!');
   console.log(info);
 }
 

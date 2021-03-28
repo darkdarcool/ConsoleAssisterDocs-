@@ -1,3 +1,7 @@
 {
-  "comment": "Comment Information"
+  "comment": "Comment Information",
+  "comment-data": "Comment.commentData()",
+  "create-comment": "Comment.createComment()$",
+  "update-comment": "Comment.updateComment()$",
+  "delete-comment": "Comment.deleteComment()$"
 }

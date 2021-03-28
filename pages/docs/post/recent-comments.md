@@ -16,7 +16,7 @@ const replapi = require('replapi-it');
 
 let myPost = new replapi.Post(131485);
 
-async function getPostData() {
+async function getRecentComments() {
   let info = await myPost.recentComments();
   console.log(info);
 }

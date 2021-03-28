@@ -1,11 +1,11 @@
-# Create Comment ($)
+# Update Comment ($)
 
 ## Usage
 ```js
-.createComment(message)
+.updateComment(message)
 ```
 
-This function is used to create a comment on a post.
+This function is used to update a comment's content.
 
 It takes in the *message* field.
 
@@ -22,14 +22,14 @@ It takes in the *message* field.
 ```js
 const replapi = require('replapi-it');
 
-let myPost = new replapi.Post(131485);
+let myComment = new replapi.Comment(486420);
 
-async function createComment() {
-  let info = await myPost.createComment('Hello!');
+async function updateComment() {
+  let info = await myComment.updateComment('This is difference!');
   console.log(info);
 }
 
-createComment();
+updateComment();
 ```
 
 **Example Response**:

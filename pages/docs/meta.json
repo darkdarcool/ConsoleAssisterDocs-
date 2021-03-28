@@ -2,5 +2,6 @@
   "getting-started": "Getting Started",
   "user": "The User Class",
   "post": "The Post Class",
-  "comment": "The Comment Class"
+  "comment": "The Comment Class",
+  "repl": "The Repl Class"
 }

@@ -1,13 +1,13 @@
-# Create Comment ($)
+# Delete Comment ($)
 
 ## Usage
 ```js
-.createComment(message)
+.deleteComment()
 ```
 
-This function is used to create a comment on a post.
+This function is used to delete a comment from ReplTalk.
 
-It takes in the *message* field.
+It doesn't take in any parameters.
 
 | Parameter Name | Description | Default Value |
 | :---: | :---: | :---: |
@@ -22,14 +22,14 @@ It takes in the *message* field.
 ```js
 const replapi = require('replapi-it');
 
-let myPost = new replapi.Post(131485);
+let myComment = new replapi.Comment(486420);
 
-async function createComment() {
-  let info = await myPost.createComment('Hello!');
+async function deleteComment() {
+  let info = await myComment.deleteComment();
   console.log(info);
 }
 
-createComment();
+deleteComment();
 ```
 
 **Example Response**:

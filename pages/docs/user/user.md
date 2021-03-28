@@ -8,7 +8,7 @@ To create a user, you do the following:
 ```js
 const replapi = require('replapi-it');
 
-let myUser = new replapi.user('replace-with-username');
+let myUser = new replapi.User('replace-with-username');
 ```
 
 This class only takes the name of the user (in proper case) as a string.
