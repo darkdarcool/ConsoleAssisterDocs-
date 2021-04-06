@@ -1,5 +1,6 @@
 {
   "repl": "Repl Information",
   "repl-graphql-data": "Repl.replGraphQLData()",
-  "repl-rest-data": "Repl.replRESTData()"
+  "repl-rest-data": "Repl.replRESTData()",
+  "repl-replangs": "Repl.replLangs()"
 }
