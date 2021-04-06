@@ -3,5 +3,6 @@
   "user": "The User Class",
   "post": "The Post Class",
   "comment": "The Comment Class",
-  "repl": "The Repl Class"
+  "repl": "The Repl Class",
+  "board": "The Board Class"
 }

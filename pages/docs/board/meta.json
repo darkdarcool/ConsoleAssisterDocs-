@@ -1,0 +1,5 @@
+{
+  "board": "Board Information",
+  "board-data": "Board.boardData()",
+  "board-posts": "Board.boardPosts()"
+}
