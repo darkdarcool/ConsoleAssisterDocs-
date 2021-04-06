@@ -10,6 +10,6 @@ Some helpful symbols you might encounter:
 
 | Symbol | Meaning |
 | :---: | :--- |
-| $ | A Query or Mutation that Requires a Logged in User (see Login Class) |
+| $ | A Query or Mutation that Requires a Logged in Client (see Login Class) |
 | # | A GraphQL Mutation, Limited to Administrators and Moderators |
 | ^ | A Depreciated Feature |

@@ -7,5 +7,6 @@
   "board": "The Board Class",
   "leaderboard": "The Leaderboard Class",
   "languages": "The Languages Class",
-  "login": "The Login Class"
+  "login": "The Login Class",
+  "notifications": "The Notifications Class"
 }
