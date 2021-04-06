@@ -2,7 +2,7 @@
 
 ## Usage
 ```js
-.boardPosts()
+.boardPosts(after, count, order)
 ```
 
 This function is used to retrive the posts on a specific board.

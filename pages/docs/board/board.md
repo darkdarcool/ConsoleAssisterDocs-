@@ -1,6 +1,6 @@
 # The Board Class
 
-The Board class is used when you want to query and data on a specific user on Replit.
+The Board class is used when you want to query data on a specific board on Replit.
 
 > Note, mutations on the Board are not included in the package for security reasons
 
